@@ -10,4 +10,9 @@ public class FinanceCloudApplication {
         SpringApplication.run(FinanceCloudApplication.class, args);
     }
 
+
+    public void devlop(){
+        System.out.println("这是一个bug修复工作！");
+    }
+
 }
