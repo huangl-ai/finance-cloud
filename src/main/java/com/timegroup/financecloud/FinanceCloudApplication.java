@@ -12,7 +12,12 @@ public class FinanceCloudApplication {
 
 
     public void devlop(){
-        System.out.println("这是一个bug修复工作！");
+        System.out.println("开发工作！");
+    }
+
+
+    public void devlop2(){
+        System.out.println("继续开发工作！");
     }
 
 }
