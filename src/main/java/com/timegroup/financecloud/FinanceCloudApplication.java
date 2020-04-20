@@ -11,7 +11,8 @@ public class FinanceCloudApplication {
     }
 
 
-    public void dev(){
-        System.out.println("功能开发工作");
+    public void devlop(){
+        System.out.println("这是一个bug修复工作！");
     }
+
 }
